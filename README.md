@@ -9,5 +9,8 @@
 - BE : Java, Spring, JPA
 
 ### 구성
+#### ERD
+<img width="340" alt="image" src="https://github.com/Minjae-An/WebService_Sample_Code/assets/101340860/c5333fb0-a438-4c90-a81c-6ad8b184ea1b">
+
 
 
